@@ -78,7 +78,7 @@
 
 ### Credits
 
-* **Original author: [mohagames](https://github.com/mohagames)**
+* **Original author: [mohagames](https://github.com/Mohagames205)**
 ---
 * **[Vecnavium](https://github.com/Vecnavium)**
 * **[FormsUI](https://github.com/Vecnavium/FormsUI/tree/master/)**
