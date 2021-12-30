@@ -1,0 +1,15 @@
+name: RGBArmor
+main: fernanACM\RGBArmor\Rgb
+version: 1.0
+api: 4.0.0
+description: Color your armor with RGB codes!
+authors: [fernanACM, mohagames]
+website: https://github.con/fernanACM
+
+commands:
+  rgb:
+    description: RGBArmor Menu
+    permission: rgb.acm
+permissions:
+  rgb.acm:
+    default: op
