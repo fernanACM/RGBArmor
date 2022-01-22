@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace fernanACM\RGBArmor\util;
+namespace fernanACM\RGBArmor\utils;
 
 use Closure;
 use pocketmine\entity\Attribute;
