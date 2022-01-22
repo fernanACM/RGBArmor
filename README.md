@@ -1,9 +1,10 @@
 # RGB-Armor
-**Color your leather armor with RGB-ARMOR, simple and easy to use.**
 [![](https://poggit.pmmp.io/shield.state/RGB)](https://poggit.pmmp.io/p/RGB)
 <a href="https://poggit.pmmp.io/p/RGB"><img src="https://poggit.pmmp.io/shield.state/RGB"></a>
 
+**Color your leather armor with RGB-ARMOR, simple and easy to use.**
 ![Captura de pantalla 2021-12-29 211520](https://user-images.githubusercontent.com/83558341/147720436-4c53f350-a870-4754-b308-c13ab745dbe9.png)
+<a href="https://discord.gg/YyE9XFckqb"><img src="https://img.shields.io/discord/837701868649709568?label=discord&color=7289DA&logo=discord" alt="Discord" /></a>
 **This plugin does not belong to me, but to mohagames, who is the original author of this plugin.**
 
 ### Implementations
