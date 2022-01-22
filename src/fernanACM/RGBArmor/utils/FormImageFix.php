@@ -19,7 +19,7 @@ use pocketmine\plugin\PluginBase;
 use pocketmine\scheduler\CancelTaskException;
 use pocketmine\scheduler\ClosureTask;
 
-final class FormImageFix {
+class FormImageFix {
 
 	/** @var Closure[][] */
 	private $callbacks = [];
